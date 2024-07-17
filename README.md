@@ -21,3 +21,8 @@ Llegando al final del EDA. Llegué a la conclusión de que la compañía, presen
 ![dashboard](./src/dash1.jpeg)
 
 Para el dashboard interactivo, elegí utilizar PowerBI, ya que es una herramienta previamente conocida, y para ello también me basé en varias paletas de colores. Utilizando principalmente tonos violetas y azules, para los KPI decidí cambiar un poco, para que sea mas distintivo. Para esto utilicé amarillos/dorados.
+![dashboard_2](./src/dash2.jpeg)
+
+Y con esto, finalicé el proyecto numero dos. 
+
+![gracias](./src/gracias.gif)
