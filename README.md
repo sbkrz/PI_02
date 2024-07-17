@@ -18,9 +18,21 @@ Debajo de los gráficos, dejé mi análisis de ellos.
 
 Llegando al final del EDA. Llegué a la conclusión de que la compañía, presentó un incremento de clientes en los últimos 9 años, pero no uno muy grande. Ya que en lugares como el interior de Buenos Aires, o el interior del país (otras provincias), se presenta competencia, posiblemente cooperativas locales, u otras empresas de servicios de internet/cable. Además de la competencia, otro factor que influye en la cantidad de clientes, es que no en todas las provincias se encuentra la tecnología más moderna, por lo que la gente no puede acceder a altas velocidades de internet por parte de nuestra compañía.
 
-![dashboard](./src/dash1.jpeg)
+Por último, propuse 2 KPI:
+
+1. Crecimiento de Usuarios con Fibra Óptica
+Objetivo: Aumentar en un 10% la cantidad de usuarios con tecnología de fibra óptica para el próximo año.
+
+Fórmula: (Usuarios con fibra óptica año actual - usuarios con fibra óptica año anterior / usuarios fibra óptica año anterior) * 100
+
+2. Crecimiento de usuarios con 1000 Mbps
+Objetivo: Aumentar en un 10% la cantidad de usuarios velocidad de 1000 Mbps para el próximo año.
+
+Fórmula: (Usuarios con 1000 Mbps actual - usuarios con 1000 Mbps año anterior / usuarios 1000 Mbps año anterior) * 100
 
 Para el dashboard interactivo, elegí utilizar PowerBI, ya que es una herramienta previamente conocida, y para ello también me basé en varias paletas de colores. Utilizando principalmente tonos violetas y azules, para los KPI decidí cambiar un poco, para que sea mas distintivo. Para esto utilicé amarillos/dorados.
+![dashboard](./src/dash1.jpeg)
+
 ![dashboard_2](./src/dash2.jpeg)
 
 Y con esto, finalicé el proyecto numero dos. 
